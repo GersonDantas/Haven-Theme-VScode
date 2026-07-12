@@ -1,0 +1,51 @@
+{
+  "name": "haven-theme",
+  "displayName": "Haven Theme",
+  "description": "Comfort-focused theme collection for Visual Studio Code.",
+  "version": "0.8.0",
+  "publisher": "gerson-dantas",
+  "icon": "assets/haven.png",
+  "author": {
+    "name": "Gerson Dantas"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dracula",
+    "dark theme",
+    "light theme",
+    "haven"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GersonDantas/Haven-Theme.git"
+  },
+  "homepage": "https://github.com/GersonDantas/Haven-Theme#readme",
+  "bugs": {
+    "url": "https://github.com/GersonDantas/Haven-Theme/issues"
+  },
+  "scripts": {
+    "package:vsix": "npx @vscode/vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Haven Warm Dark Solid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/haven-warm-dark-solid-color-theme.json"
+      },
+      {
+        "label": "Haven Warm Light Solid",
+        "uiTheme": "vs",
+        "path": "./themes/haven-warm-light-solid-color-theme.json"
+      }
+    ]
+  }
+}

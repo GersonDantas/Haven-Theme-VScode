@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/**
+*.vsix
+screenshots/haven_orange_comfort_light.png
+screenshots/haven_orange_comfort_solid.png
