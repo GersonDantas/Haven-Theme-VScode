@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.11.0
+
+- Refined light and dark syntax highlighting for `const` and other readonly symbols.
+- Kept `this`, booleans, and `console` aligned to the same accent treatment.
+- Improved bracket, brace, and parenthesis contrast in both variants.
+- Aligned light-theme string quotes with string coloring for better readability.
+
 ## 0.10.0
 
 - Adjusted light and dark syntax colors so string quotes follow the main text color.

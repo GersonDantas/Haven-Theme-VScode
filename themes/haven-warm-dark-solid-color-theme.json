@@ -184,22 +184,22 @@
     "terminal.ansiBrightMagenta": "#FF92DFFF",
     "terminal.ansiBrightCyan": "#B98C52FF",
     "terminal.ansiBrightWhite": "#FFFFFFFF",
-    "editorBracketHighlight.foreground1": "#D97A2B",
+    "editorBracketHighlight.foreground1": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground1": "#D97A2B",
     "editorBracketPairGuide.background1": "#323230FF",
-    "editorBracketHighlight.foreground2": "#B98C52",
+    "editorBracketHighlight.foreground2": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground2": "#B98C52",
     "editorBracketPairGuide.background2": "#323230FF",
-    "editorBracketHighlight.foreground3": "#3B342B",
+    "editorBracketHighlight.foreground3": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground3": "#3B342B",
     "editorBracketPairGuide.background3": "#323230FF",
-    "editorBracketHighlight.foreground4": "#34373A",
+    "editorBracketHighlight.foreground4": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground4": "#34373A",
     "editorBracketPairGuide.background4": "#323230FF",
-    "editorBracketHighlight.foreground5": "#B7AEA4",
+    "editorBracketHighlight.foreground5": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground5": "#B7AEA4",
     "editorBracketPairGuide.background5": "#323230FF",
-    "editorBracketHighlight.foreground6": "#E8E1D8",
+    "editorBracketHighlight.foreground6": "#F8F8F2FF",
     "editorBracketPairGuide.activeBackground6": "#E8E1D8",
     "editorBracketPairGuide.background6": "#323230FF"
   },
@@ -674,6 +674,9 @@
     },
     "variable": {
       "foreground": "#F8F8F2FF"
+    },
+    "variable.readonly": {
+      "foreground": "#BD93F9FF"
     },
     "parameter": {
       "foreground": "#FFB86CFF",
