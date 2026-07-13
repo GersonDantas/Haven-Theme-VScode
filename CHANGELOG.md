@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.14.0
+
+- Refreshed the published screenshots for the current Haven preview.
+- Bumped the extension release package to the latest tagged version.
+
+## 0.13.0
+
+- Refined diff editor colors for added and removed lines.
+- Updated Git decoration colors to better match the current Haven palette.
+
 ## 0.12.0
 
 - Added automatic light and dark theme switching guidance to the README.
