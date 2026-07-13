@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.12.0
+
+- Added automatic light and dark theme switching guidance to the README.
+- Documented the recommended VS Code color scheme settings for Haven.
+- Added macOS, Windows, and Linux suggestions for sunset-driven theme switching.
+
 ## 0.11.0
 
 - Refined light and dark syntax highlighting for `const` and other readonly symbols.

@@ -19,6 +19,28 @@ Haven keeps Dracula as an inspiration, but it is not intended to be a direct por
 
 The main difference is the focus on comfort across a full day of use. Backgrounds, surfaces, selected states, line highlights, terminal colors, and muted text were tuned to reduce harsh contrast while keeping code readable.
 
+## Automatic Light And Dark Setup
+
+If you want Visual Studio Code to switch Haven automatically with the system appearance, this is the recommended setup:
+
+```json
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Haven Warm Light Solid",
+  "workbench.preferredDarkColorTheme": "Haven Warm Dark Solid"
+}
+```
+
+This tells VS Code to use the light theme when the system is in light mode and the dark theme when the system is in dark mode.
+
+Suggested system setup:
+
+- macOS: open `System Settings > Appearance` and choose `Auto`. This is how I do it on my Mac.
+- Windows: use a tool such as Auto Dark Mode, or schedule a system/theme switch with Task Scheduler to follow sunrise and sunset.
+- Linux: if your desktop environment supports automatic appearance switching, use that. On GNOME/Ubuntu, a night-theme switcher extension or a small scheduled script is usually the practical option.
+
+This is a suggestion, not a requirement. You can keep Haven manual and switch themes yourself if you prefer.
+
 ## Screenshots
 
 ### Haven Warm Dark Solid
