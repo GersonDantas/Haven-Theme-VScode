@@ -234,6 +234,18 @@
       }
     },
     {
+      "name": "string.quotes",
+      "scope": [
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end"
+      ],
+      "settings": {
+        "foreground": "#1F1F1F"
+      }
+    },
+    {
       "name": "string.escape",
       "scope": [
         "constant.character.escape",
@@ -286,7 +298,7 @@
         "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#A3144D"
+        "foreground": "#644AC9"
       }
     },
     {
@@ -458,6 +470,17 @@
       }
     },
     {
+      "name": "console",
+      "scope": [
+        "support.class.console",
+        "support.type.object.console",
+        "variable.language.console"
+      ],
+      "settings": {
+        "foreground": "#644AC9"
+      }
+    },
+    {
       "name": "tag",
       "scope": [
         "entity.name.tag"
@@ -508,6 +531,22 @@
       "name": "punctuation.bracket",
       "scope": [
         "punctuation.bracket"
+      ],
+      "settings": {
+        "foreground": "#1F1F1F"
+      }
+    },
+    {
+      "name": "punctuation.group",
+      "scope": [
+        "punctuation.section.block.begin",
+        "punctuation.section.block.end",
+        "punctuation.definition.parameters.begin",
+        "punctuation.definition.parameters.end",
+        "punctuation.definition.arguments.begin",
+        "punctuation.definition.arguments.end",
+        "punctuation.definition.group.begin",
+        "punctuation.definition.group.end"
       ],
       "settings": {
         "foreground": "#1F1F1F"

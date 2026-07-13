@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.10.0
+
+- Adjusted light and dark syntax colors so string quotes follow the main text color.
+- Aligned booleans and `console` with the same accent used for `this`.
+- Updated bracket, brace, and parenthesis scopes to use the high-contrast foreground color.
+
 ## 0.9.0
 
 - Updated repository, homepage, and issue tracker links to the dedicated VS Code repository.
