@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.15.0
+
+- Update icon image to better image.
+
 ## 0.14.0
 
 - Refreshed the published screenshots for the current Haven preview.
