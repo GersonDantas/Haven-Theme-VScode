@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.16.0
+
+- Aligned the dark theme's primary and inactive text contrast.
+- Set modified editor tabs to orange accent in focused and unfocused states.
+
 ## 0.15.0
 
 - Update icon image to better image.
