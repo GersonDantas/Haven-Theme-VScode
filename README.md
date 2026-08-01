@@ -1,5 +1,13 @@
 # Haven
 
+<p align="center">
+  <a href="https://buymeacoffee.com/gersonformd">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="45">
+  </a>
+</p>
+
+<p align="center">Enjoying Haven? Support the project with a coffee ☕</p>
+
 Haven is a comfort-focused theme collection for Visual Studio Code, inspired by Dracula but shaped around a softer day-to-night editing experience.
 
 ## Background
