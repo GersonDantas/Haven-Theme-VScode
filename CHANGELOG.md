@@ -1,8 +1,17 @@
 # Changelog
 
+## 1.1.1
+
+- Increased text-selection opacity in both Haven variants.
+- Corrected both Git graph palettes: the native VS Code Source Control Graph now uses blue local references, purple remote references, and ochre base references with readable inverse text; the GitLens Commit Graph now has all ten lanes and every supported minimap/scroll marker mapped to distinct Haven colors.
+- Separated the editor canvas subtly from the surrounding workbench in both variants while keeping the gutter, line-number area, sticky scroll, and minimap nearly continuous with the editor surface.
+- Increased syntax vibrancy and base-text clarity in both variants while keeping comments and supporting interface text visually quieter.
+
 ## 1.1.0
 
 - Added automatic VS Code defaults for system appearance detection and the preferred Haven Light and Dark themes, without overwriting explicit user settings.
+- Increased text-selection density and inactive-selection visibility in the Light and Dark themes.
+- Added explicit GitLens HEAD marker colors so current-branch pills remain visible in both variants.
 
 ## 1.0.0
 
