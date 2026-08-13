@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.3
+
+- Reduced the visual weight of the editor gutter's add-comment button and comment range indicator in both Haven variants, keeping code as the primary focus.
+- Made information-diagnostic backgrounds transparent in both variants, so spelling issues retain their underline without placing colored blocks behind the text.
+
 ## 1.1.2
 
 - Increased text-selection opacity in both Haven variants.
