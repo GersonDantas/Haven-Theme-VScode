@@ -31,7 +31,7 @@ The main difference is the focus on comfort across a full day of use. Background
 
 ## Automatic Light And Dark Setup
 
-If you want Visual Studio Code to switch Haven automatically with the system appearance, this is the recommended setup:
+Installing Haven automatically contributes these defaults to Visual Studio Code:
 
 ```json
 {
@@ -41,7 +41,7 @@ If you want Visual Studio Code to switch Haven automatically with the system app
 }
 ```
 
-This tells VS Code to use the light theme when the system is in light mode and the dark theme when the system is in dark mode.
+No manual configuration is required. This tells VS Code to use `Haven Light` when the system is in light mode and `Haven Dark` when the system is in dark mode. Existing user or workspace settings take precedence, so Haven does not overwrite personal preferences in `settings.json`.
 
 Suggested system setup:
 
@@ -49,21 +49,19 @@ Suggested system setup:
 - Windows: use a tool such as Auto Dark Mode, or schedule a system/theme switch with Task Scheduler to follow sunrise and sunset.
 - Linux: if your desktop environment supports automatic appearance switching, use that. On GNOME/Ubuntu, a night-theme switcher extension or a small scheduled script is usually the practical option.
 
-This is a suggestion, not a requirement. You can keep Haven manual and switch themes yourself if you prefer.
+You can disable automatic switching at any time by changing `window.autoDetectColorScheme` in Settings.
 
 ## Screenshots
 
 ### Haven Dark
 
-<!-- Screenshot placeholder:
 ![Haven Dark](./screenshots/haven_dark.png)
--->
+
 
 ### Haven Light
 
-<!-- Screenshot placeholder:
 ![Haven Light](./screenshots/haven_light.png)
--->
+
 
 ### Haven Warm Dark Solid
 

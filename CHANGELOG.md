@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.1.0
+
+- Added automatic VS Code defaults for system appearance detection and the preferred Haven Light and Dark themes, without overwriting explicit user settings.
+
+## 1.0.0
+
+This is a major visual release for Haven. It is more than a palette refresh: the new `Haven Light` and `Haven Dark` themes introduce a complete workbench color system alongside the existing warm solid variants, with coverage for the current VS Code theme tokens and semantic highlighting.
+
+- Reworked the visual hierarchy so the editor and syntax remain the focus while panels, buttons, borders, and inactive UI recede.
+- Increased syntax color vibrancy in both variants while preserving comfortable contrast for long coding sessions.
+- Tuned Light backgrounds toward a subtle warm Solarized-like cream and Dark backgrounds toward a restrained amber-charcoal tone.
+- Clarified change semantics: current merge changes use green, incoming changes use red, and unresolved conflicts use a separate Haven orange.
+- Made diff, minimap, and scrollbar overlays translucent enough to keep change markers visible during focus, hover, and scrolling.
+- Added the complete Light and Dark theme files without removing `Haven Warm Light Solid` or `Haven Warm Dark Solid`, so the variants can coexist.
+
+The release is considered major because it changes the theme architecture and the day-to-day reading experience across the editor, workbench, merge editor, diff editor, minimap, and scrollbar, rather than changing an isolated token or a single component.
+
 ## 0.16.0
 
 - Aligned the dark theme's primary and inactive text contrast.
