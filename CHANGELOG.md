@@ -1,9 +1,11 @@
 # Changelog
 
-## 1.1.1
+## 1.1.2
 
 - Increased text-selection opacity in both Haven variants.
-- Corrected both Git graph palettes: the native VS Code Source Control Graph now uses blue local references, purple remote references, and ochre base references with readable inverse text; the GitLens Commit Graph now has all ten lanes and every supported minimap/scroll marker mapped to distinct Haven colors.
+- Corrected the native VS Code Source Control Graph through its supported `scmGraph.*` tokens, giving local references a blue background, remote references a warm purple background, base references an ochre background, and every label a high-contrast foreground.
+- Completed the GitLens 19 Commit Graph palette with all ten lanes and every registered graph marker. HEAD and local branches use blue, upstream and remote branches use purple, pull requests use purple, tags use ochre, stashes use pink, worktrees and WIP use orange, additions use green, and deletions use red.
+- Avoided unsupported GitLens reference-background, reference-foreground, and pull-request-status token names that would be silently ignored by the installed extension.
 - Separated the editor canvas subtly from the surrounding workbench in both variants while keeping the gutter, line-number area, sticky scroll, and minimap nearly continuous with the editor surface.
 - Increased syntax vibrancy and base-text clarity in both variants while keeping comments and supporting interface text visually quieter.
 
