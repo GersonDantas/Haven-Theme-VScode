@@ -1107,7 +1107,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#4E4A46"
+        "foreground": "#216B75"
       }
     },
     {
@@ -1206,7 +1206,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#24211F"
+        "foreground": "#8A5418"
       }
     },
     {
@@ -1216,7 +1216,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#4E4A46"
+        "foreground": "#216B75"
       }
     },
     {
@@ -1225,7 +1225,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#24211F"
+        "foreground": "#8A5418"
       }
     },
     {
@@ -1461,16 +1461,16 @@
       "foreground": "#00747E"
     },
     "property": {
-      "foreground": "#4E4A46"
+      "foreground": "#216B75"
     },
     "variable": {
-      "foreground": "#24211F"
+      "foreground": "#8A5418"
     },
     "variable.readonly": {
       "foreground": "#8F6000"
     },
     "parameter": {
-      "foreground": "#24211F"
+      "foreground": "#8A5418"
     },
     "type": {
       "foreground": "#B0275B"
