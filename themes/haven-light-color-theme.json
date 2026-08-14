@@ -1241,6 +1241,16 @@
       }
     },
     {
+      "name": "this keyword",
+      "scope": [
+        "variable.language.this",
+        "keyword.other.this"
+      ],
+      "settings": {
+        "foreground": "#77538F"
+      }
+    },
+    {
       "name": "console",
       "scope": [
         "support.class.console",
@@ -1499,7 +1509,7 @@
       "foreground": "#B94305"
     },
     "selfKeyword": {
-      "foreground": "#24211F"
+      "foreground": "#77538F"
     }
   }
 }
