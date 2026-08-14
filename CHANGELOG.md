@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.2.0
 
 - Gave the JavaScript and TypeScript `this` receiver a dedicated warm-violet accent in Haven Light and Dark, separating contextual access from ordinary variables.
 - Increased the vibrancy of reserved words and gave class names a dedicated cobalt-blue accent, distinguishing classes from interfaces and other types.
