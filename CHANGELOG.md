@@ -5,6 +5,7 @@
 - Gave the JavaScript and TypeScript `this` receiver a dedicated warm-violet accent in Haven Light and Dark, separating contextual access from ordinary variables.
 - Increased the vibrancy of reserved words and gave class names a dedicated cobalt-blue accent, distinguishing classes from interfaces and other types.
 - Added warm-amber variables and teal properties to make identifiers easier to scan without overpowering functions, types, or keywords.
+- Returned imported identifiers and member accesses such as `this.property` to the neutral foreground, matching the quieter Dracula-style treatment of supporting names.
 
 ## 1.1.3
 

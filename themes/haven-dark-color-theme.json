@@ -1060,6 +1060,15 @@
       }
     },
     {
+      "name": "imported identifier",
+      "scope": [
+        "variable.other.readwrite.alias"
+      ],
+      "settings": {
+        "foreground": "#F2ECE4"
+      }
+    },
+    {
       "name": "operator",
       "scope": [
         "keyword.operator",
@@ -1102,7 +1111,6 @@
     {
       "name": "property",
       "scope": [
-        "variable.other.property",
         "meta.object-literal.key",
         "support.type.property-name"
       ],
@@ -1212,11 +1220,10 @@
     {
       "name": "variable.member",
       "scope": [
-        "variable.other.object",
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#82C9CD"
+        "foreground": "#F2ECE4"
       }
     },
     {
@@ -1461,7 +1468,7 @@
       "foreground": "#65D4D6"
     },
     "property": {
-      "foreground": "#82C9CD"
+      "foreground": "#F2ECE4"
     },
     "variable": {
       "foreground": "#E9AD63"
