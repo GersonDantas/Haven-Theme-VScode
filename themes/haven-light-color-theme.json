@@ -1134,7 +1134,7 @@
         "support.type.property-name.css"
       ],
       "settings": {
-        "foreground": "#3F6B3A"
+        "foreground": "#3C762E"
       }
     },
     {
@@ -1281,6 +1281,15 @@
       "name": "tag",
       "scope": [
         "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#B0275B"
+      }
+    },
+    {
+      "name": "JSX component tag",
+      "scope": [
+        "support.class.component"
       ],
       "settings": {
         "foreground": "#00747E"
