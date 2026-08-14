@@ -1079,6 +1079,15 @@
       }
     },
     {
+      "name": "assignment operator",
+      "scope": [
+        "keyword.operator.assignment"
+      ],
+      "settings": {
+        "foreground": "#2B6670"
+      }
+    },
+    {
       "name": "function",
       "scope": [
         "entity.name.function",
@@ -1275,6 +1284,16 @@
       ],
       "settings": {
         "foreground": "#00747E"
+      }
+    },
+    {
+      "name": "tag punctuation",
+      "scope": [
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
+      "settings": {
+        "foreground": "#356A78"
       }
     },
     {

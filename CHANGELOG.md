@@ -7,6 +7,8 @@
 - Added warm-amber variables and teal properties to make identifiers easier to scan without overpowering functions, types, or keywords.
 - Returned imported identifiers and member accesses such as `this.property` to the neutral foreground, matching the quieter Dracula-style treatment of supporting names.
 - Aligned HTML and JSX tags with the teal namespace color, added palette-green attributes, and limited warm-yellow text coloring to values inside markup tags.
+- Matched assignment operators to the teal bracket family while leaving comparisons, arrows, and arithmetic operators neutral.
+- Brightened HTML and JSX tag delimiters with a secondary teal so `<`, `</`, `>` and `/>` remain visible without competing with tag names.
 
 ## 1.1.3
 

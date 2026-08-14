@@ -1079,6 +1079,15 @@
       }
     },
     {
+      "name": "assignment operator",
+      "scope": [
+        "keyword.operator.assignment"
+      ],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
       "name": "function",
       "scope": [
         "entity.name.function",
@@ -1096,7 +1105,7 @@
         "support.function.method"
       ],
       "settings": {
-        "foreground": "#65D4D6"
+        "foreground": "#D4DFD8"
       }
     },
     {
@@ -1275,6 +1284,16 @@
       ],
       "settings": {
         "foreground": "#65D4D6"
+      }
+    },
+    {
+      "name": "tag punctuation",
+      "scope": [
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
+      "settings": {
+        "foreground": "#F9F9F9"
       }
     },
     {
