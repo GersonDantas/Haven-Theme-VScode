@@ -1125,7 +1125,7 @@
         "support.type.property-name.css"
       ],
       "settings": {
-        "foreground": "#B0275B"
+        "foreground": "#3F6B3A"
       }
     },
     {
@@ -1274,7 +1274,18 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#B0275B"
+        "foreground": "#00747E"
+      }
+    },
+    {
+      "name": "markup attribute text",
+      "scope": [
+        "meta.tag string.quoted",
+        "meta.tag string.unquoted",
+        "meta.tag string.template"
+      ],
+      "settings": {
+        "foreground": "#8F6000"
       }
     },
     {

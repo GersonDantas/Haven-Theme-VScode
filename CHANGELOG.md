@@ -6,6 +6,7 @@
 - Increased the vibrancy of reserved words and gave class names a dedicated cobalt-blue accent, distinguishing classes from interfaces and other types.
 - Added warm-amber variables and teal properties to make identifiers easier to scan without overpowering functions, types, or keywords.
 - Returned imported identifiers and member accesses such as `this.property` to the neutral foreground, matching the quieter Dracula-style treatment of supporting names.
+- Aligned HTML and JSX tags with the teal namespace color, added palette-green attributes, and limited warm-yellow text coloring to values inside markup tags.
 
 ## 1.1.3
 
