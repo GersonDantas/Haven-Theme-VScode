@@ -1,10 +1,14 @@
 # Changelog
 
+## Unreleased
+
+- Gave the JavaScript and TypeScript `this` receiver a dedicated warm-violet accent in Haven Light and Dark, separating contextual access from ordinary variables.
+- Increased the vibrancy of reserved words and gave class names a dedicated cobalt-blue accent, distinguishing classes from interfaces and other types.
+
 ## 1.1.3
 
 - Reduced the visual weight of the editor gutter's add-comment button and comment range indicator in both Haven variants, keeping code as the primary focus.
 - Made information-diagnostic backgrounds transparent in both variants, so spelling issues retain their underline without placing colored blocks behind the text.
-- Gave the JavaScript and TypeScript `this` receiver a dedicated warm-violet accent in Haven Light and Dark, separating contextual access from ordinary variables.
 
 ## 1.1.2
 

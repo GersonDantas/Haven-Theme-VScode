@@ -1045,7 +1045,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#B94305"
+        "foreground": "#C2410C"
       }
     },
     {
@@ -1056,7 +1056,7 @@
         "keyword.control.export"
       ],
       "settings": {
-        "foreground": "#B94305"
+        "foreground": "#C2410C"
       }
     },
     {
@@ -1137,7 +1137,7 @@
         "entity.name.type.class"
       ],
       "settings": {
-        "foreground": "#B0275B"
+        "foreground": "#315FC4"
       }
     },
     {
@@ -1449,7 +1449,7 @@
       "foreground": "#8F6000"
     },
     "keyword": {
-      "foreground": "#B94305"
+      "foreground": "#C2410C"
     },
     "operator": {
       "foreground": "#4E4A46"
@@ -1476,7 +1476,7 @@
       "foreground": "#B0275B"
     },
     "class": {
-      "foreground": "#B0275B"
+      "foreground": "#315FC4"
     },
     "interface": {
       "foreground": "#B0275B"
