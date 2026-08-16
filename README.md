@@ -56,11 +56,13 @@ You can disable automatic switching at any time by changing `window.autoDetectCo
 ### Haven Dark
 
 ![Haven Dark](./screenshots/haven_dark.png)
+![Haven Dark](./screenshots/haven_dark_gif.gif)
 
 
 ### Haven Light
 
 ![Haven Light](./screenshots/haven_light.png)
+![Haven Light](./screenshots/haven_light_gif.gif)
 
 
 ### Haven Warm Dark Solid

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1
+
+- Added animated images for the new light and dark theme
+
 ## 1.2.0
 
 - Gave the JavaScript and TypeScript `this` receiver a dedicated warm-violet accent in Haven Light and Dark, separating contextual access from ordinary variables.
