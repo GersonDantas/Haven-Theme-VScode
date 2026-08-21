@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.2
+
+- Brought both Warm Solid variants to the same current workbench-token coverage as Haven Light and Dark, including editor, testing, chat, merge, Source Control Graph, GitLens, notebook, terminal, and status surfaces.
+- Added the missing syntax rules for imports, methods, classes, interfaces, inherited types, namespaces, decorators, `this`, JSX components, tag punctuation, markup values, and preprocessors.
+- Added semantic coverage for structs, type parameters, and events while preserving the existing Warm Solid italics for parameters, interfaces, inherited types, and `this`.
+- Refined syntax contrast selectively: comments are clearer in Warm Dark Solid, while strings, regular expressions, and green attributes remain readable in Warm Light Solid without increasing background stimulation.
+- Preserved the flat Solid surface hierarchy and applied Dracula/Alucard-inspired color roles only to syntax and semantic distinctions.
+- Returned HTML and JSX tag delimiters such as `<`, `>`, `</`, and `/>` to the neutral identifier foreground in all four Haven variants, keeping tag names and attributes as the semantic color carriers.
+
 ## 1.2.1
 
 - Added animated images for the new light and dark theme

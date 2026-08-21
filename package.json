@@ -2,7 +2,7 @@
   "name": "haven-theme",
   "displayName": "Haven Theme",
   "description": "Comfort-focused theme collection for Visual Studio Code.",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "publisher": "gerson-dantas",
   "icon": "assets/haven.png",
   "author": {
@@ -37,8 +37,8 @@
   "contributes": {
     "configurationDefaults": {
       "window.autoDetectColorScheme": true,
-      "workbench.preferredLightColorTheme": "Haven Light",
-      "workbench.preferredDarkColorTheme": "Haven Dark"
+      "workbench.preferredLightColorTheme": "Haven Warm Light Solid",
+      "workbench.preferredDarkColorTheme": "Haven Warm Dark Solid"
     },
     "themes": [
       {

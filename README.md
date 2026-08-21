@@ -36,8 +36,8 @@ Installing Haven automatically contributes these defaults to Visual Studio Code:
 ```json
 {
   "window.autoDetectColorScheme": true,
-  "workbench.preferredLightColorTheme": "Haven Light",
-  "workbench.preferredDarkColorTheme": "Haven Dark"
+  "workbench.preferredLightColorTheme": "Haven Warm Light Solid",
+  "workbench.preferredDarkColorTheme": "Haven Warm Dark Solid"
 }
 ```
 
