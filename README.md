@@ -1,12 +1,12 @@
 # Haven
 
 <p align="center">
-  <a href="https://buymeacoffee.com/gersonformd" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/GersonDantas/img/blob/5eb8ac5db321c0b956fd20f1605b8bce8de8e684/qr-code.png" alt="Buy Me a Coffee" height="200">
+  <a href="https://ko-fi.com/gerson_dantas" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/GersonDantas/img/blob/b81c0ba4adb694a7a65a91f64f7a1670d4d5c101/qrcode.png" alt="Buy Me a Coffee" height="200">
   </a>
 </p>
 
-<p align="center">Enjoying Haven? Support the project with a coffee ☕</p>
+<p align="center">Enjoying Agent Team Configurator? Support the project with a coffee ☕</p>
 
 Haven is a comfort-focused theme collection for Visual Studio Code, designed for calm, sustained work across light and dark environments.
 
