@@ -1,7 +1,7 @@
 # Haven
 
 <p align="center">
-  <a href="https://buymeacoffee.com/gersonformd">
+  <a href="https://buymeacoffee.com/gersonformd" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/GersonDantas/img/blob/main/qr-code.png" alt="Buy Me a Coffee" height="200">
   </a>
 </p>
