@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/gersonformd">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="45">
+    <img src="https://github.com/GersonDantas/img/blob/main/qr-code.png" alt="Buy Me a Coffee" height="200">
   </a>
 </p>
 
